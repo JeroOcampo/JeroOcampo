@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Jero Ocampo
+# 👋 Hola, soy Jerónimo González Ocampo
 
 ### Desarrollador Full Stack Junior
 
